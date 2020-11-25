@@ -1,3 +1,20 @@
+/*Contents
+
+633 Destructuring arrays
+605 Destructuring objects
+549 Spread operator
+509 Rest pattern and parameters
+479 Short circuiting (&& and ||)
+468 Nullish coalescing operator (??)
+454 Looping arrays FOR-OF LOOP
+410 Optional chaining (.?)
+376 Looping objects (objects keys, values, entries)
+331 Sets
+290 Maps: fundamentals
+249 Maps: iteration
+97 Strings
+
+*/
 'use strict';
 //Let's say we want to have opening hours as a separate object. To add it to restaurant object we can use the ES6 syntax
 const openingHours = {
